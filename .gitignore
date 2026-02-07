@@ -44,3 +44,6 @@ logs/
 *.tmp
 *.bak
 *.orig
+
+# 프로젝트 설정 (로컬 개발자용)
+CLAUDE.md
